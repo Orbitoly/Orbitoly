@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+### Reach me:
+
+[![LinkedIn](Resources/Logos/linkedin.png)][1]
+
+[1]: https://www.linkedin.com/in/or-virt/?locale=en_US
 <!--
 **Orbitoly/Orbitoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
